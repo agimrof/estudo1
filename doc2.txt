@@ -1,1 +1,2 @@
 Primeiro texto doc2
+Primeira alteração da branch1
